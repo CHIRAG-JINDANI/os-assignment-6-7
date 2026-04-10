@@ -40,4 +40,4 @@ Follow the prompts — select an algorithm (1–6), then enter the number of pro
 ![Output 1](output1.png)
 
 ### Output 2
-(output2.png)
+![](output2.png)
